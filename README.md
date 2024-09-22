@@ -22,4 +22,3 @@ El repositorio está organizado para facilitar el acceso a diferentes archivos J
 
 - **informacion.json**: Contiene datos informativos usados en LandingPages u otras aplicaciones relacionadas.
   - URL directa: [informacion.json](https://raw.githubusercontent.com/a81Biz/AMSharedData/refs/heads/master/informacion.json)
-
