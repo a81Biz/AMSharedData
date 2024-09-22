@@ -6,7 +6,7 @@ Este repositorio centraliza archivos JSON que son utilizados por múltiples apli
 
 El repositorio está organizado para facilitar el acceso a diferentes archivos JSON según sus aplicaciones o categorías:
 
--/
+- '/
     - cv.json
     - informacion.json
     - [nombre-aplicacion]/
