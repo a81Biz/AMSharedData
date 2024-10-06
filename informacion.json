@@ -1,6 +1,6 @@
 {
     "nombre": "Alberto Martínez",
-    "imagenPerfil": "https://pbs.twimg.com/profile_images/1700263632263663616/L3_sHGfe_400x400.jpg",
+    "imagenPerfil": "https://raw.githubusercontent.com/a81Biz/AMSharedData/refs/heads/master/img/L3_sHGfe_400x400.jpg",
     "biografia": "Soy Full-Stack Developer con experiencia en tecnologías como C#, JavaScript, DevOps y Docker. Apasionado por el software libre y código abierto, siempre estoy en busca de nuevos proyectos. En mi tiempo libre, también me sumerjo en el mundo de la fotografía de moda y editorial. Me fascina jugar con las luces y los colores precisos, centrándome en la composición y la forma.",
     "enlaces": [
       {
@@ -12,41 +12,41 @@
       {
         "icono": "bi-github",
         "nombre": "GitHub",
-        "url": "https://github.com/tu_usuario_github",
+        "url": "https://github.com/a81Biz",
         "descripcion": "Explora mi perfil en GitHub para ver algunos de mis proyectos, ejercicios y código en lenguajes como PHP, JavaScript y C#."
       },
       {
         "icono": "bi-shop",
         "nombre": "El Castillo Vagabundo",
-        "url": "https://www.tu-tienda.com",
+        "url": "https://elcastillovagabundo.mx",
         "descripcion": "Dirijo mi propio emprendimiento, una tienda dedicada a productos coleccionables y juegos TCG y RPG. Le dedico tiempo y pasión para ofrecerte una experiencia única y productos de calidad."
       },
       {
         "icono": "bi-twitch",
         "nombre": "Twitch",
-        "url": "https://www.twitch.tv/tu_canal_twitch",
+        "url": "https://www.twitch.tv/albertorcido",
         "descripcion": "Únete a mis transmisiones en vivo en Twitch, donde juego y platico con mis seguidores. ¡Disfruta de momentos gaming en directo!"
       },
       {
         "icono": "bi-twitter-x",
         "nombre": "Twitter",
-        "url": "https://twitter.com/tu_usuario_twitter",
+        "url": "https://x.com/albertormenta",
         "descripcion": "Sigue mi vida social y personal en Twitter, pero entra bajo tu propio riesgo; me presento sin filtros."
       },
       {
         "icono": "bi-instagram",
         "nombre": "Instagram",
-        "url": "https://www.instagram.com/tu_usuario_instagram/",
+        "url": "https://www.instagram.com/albertomado/",
         "descripcion": "A veces hago fotografías y me apasiona la fotografía de moda y editorial. Me enfoco en el juego de luces y colores precisos, así como en la composición y la forma."
       },
       {
         "icono": "bi-tiktok",
         "nombre": "TikTok",
-        "url": "https://www.tiktok.com/@tu_usuario_tiktok",
+        "url": "https://www.tiktok.com/@albertomado",
         "descripcion": "Explora mis gameplays y experiencias con los videojuegos que estoy probando. ¡Diviértete siguiendo mis aventuras gaming!"
       }
     ],
     "residencia": "México CDMX",
-    "correo": "alberto@a81.com"
+    "correo": "alberto@a81.biz"
   }
   
